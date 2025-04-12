@@ -95,7 +95,7 @@ disableTags = false
 enable = true
 
 [params.languages.selector.disable]
-footer = false
+footer = true
 header = false
 mobileHeader = false
 
@@ -117,14 +117,14 @@ weight = 1
 name = 'About'
 URL = '#about'
 weight = 2
-[[languages.en.menus.header]]
-name = 'Portfolio'
-URL = '#portfolio'
-weight = 3
 #  [[languages.en.menus.header]]
-#  name = "Experience"
-#  URL = "#experience"
-#  weight = 4
+#  name = 'Portfolio'
+#  URL = '#portfolio'
+#  weight = 3
+[[languages.en.menus.header]]
+name = "Experience"
+URL = "#experience"
+weight = 4
 
 [[languages.en.menus.header]]
 name = "How to"
@@ -146,10 +146,10 @@ name = "About"
 URL = "#about"
 weight = 2
 
-[[languages.en.menus.footer]]
-name = "Portfolio"
-URL = "#portfolio"
-weight = 3
+#  [[languages.en.menus.footer]]
+#  name = "Portfolio"
+#  URL = "#portfolio"
+#  weight = 3
 
 [[languages.en.menus.footer]]
 name = "Contact"
@@ -168,19 +168,21 @@ weight = 0
 name = "INICIO"
 URL = "/es/"
 weight = 1
-[[languages.es.menus.header]]
-name = 'Sobre mi'
-URL = '/es/#about'
-weight = 2
-[[languages.es.menus.header]]
-name = 'Portfolio'
-URL = '/es/#portfolio'
-weight = 3
 
 #  [[languages.es.menus.header]]
-#  name = "Experiencia"
-#  URL = "/es/#experience"
-#  weight = 4
+#  name = 'Sobre mi'
+#  URL = '/es/#about'
+#  weight = 2
+
+#  [[languages.es.menus.header]]
+#  name = 'Portfolio'
+#  URL = '/es/#portfolio'
+#  weight = 3
+
+[[languages.es.menus.header]]
+name = "Experiencia"
+URL = "/es/#experience"
+weight = 4
 
 [[languages.es.menus.header]]
 name = "Blog"
@@ -198,22 +200,32 @@ URL = "/"
 weight = 1
 
 [[languages.es.menus.footer]]
-name = "Sobre mi"
-URL = "/es/#about"
+name = "Experiencia"
+URL = "/es/#experience"
 weight = 2
 
 [[languages.es.menus.footer]]
-name = "Portfolio"
-URL = "/es/#portfolio"
+name = "Blog"
+URL = "/es/blog"
 weight = 3
 
+#  [[languages.es.menus.footer]]
+#  name = "Sobre mi"
+#  URL = "/es/#about"
+#  weight = 4
+
+#  [[languages.es.menus.footer]]
+#  name = "Portfolio"
+#  URL = "/es/#portfolio"
+#  weight = 5
+
 [[languages.es.menus.footer]]
-name = "Contact"
+name = "Contacto"
 URL = "/es/#contact"
-weight = 4
+weight = 6
 
 [languages.fr]
-disabled = false
+disabled = true
 languageCode = 'fr'
 languageDirection = 'ltr'
 languageName = 'Français'
@@ -310,7 +322,7 @@ URL = "scss/adritian.scss"
 
 [params.colorTheme.selector.disable]
 footer = false
-header = false
+header = true
 mobileHeader = false
 ## by default we allow override AND automatic selection
 

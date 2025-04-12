@@ -5,19 +5,24 @@ draft = false
 +++
 
 {{< showcase-section
-    title="Sección destacada"
-    subtitle="Subtítulo - proviene de <code>home.md</code>"
-    buttonText="Correo"
-    description="Texto en <strong>negrita</strong> y normal. Esto viene de <code>home.md</code>. ¿No proporcionado? se usa i18n por defecto (por ahora, para ofrecer compatibilidad con versiones >1.7.0)"
-    imgSrc="images/showcase/showcase.png"
-    imgScale="0.5"
+    title="Hola, soy Julio"
+    subtitle="Ingeniero Informático"
+    button_text="Contacta conmigo"
+    button_icon="icon-email"
+    button_url="#contact"
+    description="Actualmente trabajando en AENA, en el Aeropuerto de Alicante, soy un Ingeniero Informático que está acabando sus estudios y busca un puesto como desarrollador o administrador de infraestructura junior. <br/> Actualmente me encuentro acabando mis estudios, y cuento con 2 años de experiencia profesional en administración de servidores Windows y Linux, y entornos de virtualización como VMWare, Hyper-V y Proxmox. Tengo especial interés por DevOps y los microservicios."
+    imgSrc="images/showcase/Image.jpeg"
+    imgScale="0.20"
  >}}
 
 {{< platform-links >}}
+<!--
     {{< link icon="square-facebook" url="https://facebook.com/yourpage" >}}
     {{< link icon="square-twitter" url="https://twitter.com/yourpage" >}}
-    {{< link icon="linkedin" url="https://www.linkedin.com/in/adrianmoreno/" >}}
-    {{< link icon="square-github" url="https://github.com/zetxek" >}}
+-->
+    {{< link icon="linkedin" url="https://www.linkedin.com/in/jcorbalanm/" >}}
+    {{< link icon="square-github" url="https://github.com/jcorbalanm" >}}
+<!--
     {{< link icon="x-twitter" url="https://twitter.com/zetxek" >}}
     {{< link icon="dribbble" url="#" >}}
     {{< link icon="behance" url="#" >}}
@@ -29,68 +34,72 @@ draft = false
     {{< link icon="bluesky" url="https://www.bluesky.com/" >}}
     {{< link icon="threads" url="https://www.threads.net/" >}}
     {{< link icon="face-smile" url="https://www.adrianmoreno.info/" >}}
-    {{< link icon="user" url="https://www.adrianmoreno.info/" >}}
+    {{< link icon="user" url="https://jcorbalan.com/" >}}
     {{< link icon="quote-left" url="https://www.adrianmoreno.info/" >}}
     {{< link icon="cloud-arrow-down" url="https://www.adrianmoreno.info/" >}}
     {{< link icon="square-xing" url="https://www.adrianmoreno.info/" >}}
-
+-->
 {{< /platform-links >}}
 {{< /showcase-section >}}
 
+<!--
 {{< about-section
     title="Sobre mí"
     content="Usando <code>sintaxis HTML</code>"
-    about_button="Texto del botón"
-    button_icon="info"
-    button_text="Puedes editar esto"
-    button_url="https://www.google.com"
-    imgSrc="images/about/user-picture.png"
-    imgScale="0.5"
+    imgSrc="images/about/montaña.jpeg"
+    imgScale="1"
  >}}
+ -->
 
 {{< education-list
     title="Formación académica" >}}
 
+<!--
 {{< experience-section
-    title="Mi experiencia laboral (sección)"
+    title="Mi experiencia laboral"
     intro_title="Introducción"
-    intro_description="Descripción.<br>Puedes usar HTML, con formato en <strong>negrita</strong>, o listas <ul><li>uno</li><li>dos</li></ul>" 
-    button1_url="https://example.com"
-    button1_text="Visitar Ejemplo"
-    button1_icon="icon-globe"
-    button2_text="Otro Botón (2)"
-    button3_text="Ver todo"
-    button3_url="/es/experience"
+    intro_description="Over 17 years of experience working in all kind of project sizes and teams. I have architected & developed digital products to help businesses and improve people's lives, solving complex problems with simple solutions.<br>Puedes usar HTML, con formato en <strong>negrita</strong>, o listas <ul><li>uno</li><li>dos</li></ul>"
+    button1_url="https://linkedin.com/in/jcorbalanm"
+    button1_text="LinkedIn"
+    button1_icon="icon-linkedin"
+    button2_url="/files/cv_adrian_moreno_english.pdf"
+    button2_text="Descargar CV"
 >}}
+-->
 
+{{< experience-list 
+    title="Experiencia laboral" >}}
 
-## Experiencia (lista)
-
-Puedes ver una versión alternativa, usando `experience-list` en [/cv](/cv).
- 
+<!--
+    button3_text="All experience"
+    button3_url="/es/experience"
+-->
 
 {{< client-and-work-section
-    title="Una selección de mi trabajo" >}} 
+    title="Proyectos personales" >}} 
 
+<!--
 {{< testimonial-section
     title="Lo que dicen de mí" >}}
+-->
 
 {{< contact-section
     title="Contacto" 
-    contact_form_name="¿Tu nombre?"
-    contact_form_email="Tu correo"
-    contact_form_message="Tu mensaje"
+    contact_form_name="Nombre"
+    contact_form_email="Correo"
+    contact_form_message="Mensaje"
     contact_button="Enviar mensaje"
     contact_phone_title="Mi teléfono"
-    contact_phone_number="<a href='tel:+555666777'>555 666 777</a>"
+    contact_phone_number="<a href='tel:+34 644211533'>644211533</a>"
     contact_email_title="Mi correo"
-    contact_email_email="demo@demosite.com"
+    contact_email_email="jcorbalan@mailbox.org"
     contact_address_title="Mi ubicación"
-    contact_address_address="🇩🇰 Dinamarca"
+    contact_address_address="🇪🇸 Alicante, España"
     form_action="/"
     form_method="POST"
      >}}
 
+<!--
 {{< newsletter-section 
     newsletter_title="Mantente actualizado"
     newsletter_placeholder="Introduce tu correo"
@@ -101,3 +110,4 @@ Puedes ver una versión alternativa, usando `experience-list` en [/cv](/cv).
     form_action="/"
     form_method="POST"
 >}}
+-->

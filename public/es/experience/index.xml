@@ -6,28 +6,14 @@
     <description>Recent content in Experiencia on </description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/es/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Puesto #3</title>
-      <link>http://localhost:1313/es/experience/job-3/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/es/experience/job-3/</guid>
-      <description>&lt;h3 id=&#34;3rd-job-gerente-general&#34;&gt;3rd job: Gerente General&lt;/h3&gt;&#xA;&lt;p&gt;Con una traducción al español, se puede llegar a cualquier parte.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trabajo #2</title>
-      <link>http://localhost:1313/es/experience/job-2/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/es/experience/job-2/</guid>
-      <description>&lt;h3 id=&#34;arreglando-el-mundo-un-byte-a-la-vez&#34;&gt;Arreglando el mundo, un byte a la vez&lt;/h3&gt;&#xA;&lt;p&gt;Continuando la misión.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Trabajo #1</title>
-      <link>http://localhost:1313/es/experience/job-1/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/es/experience/job-1/</guid>
-      <description>&lt;h3 id=&#34;arreglando-el-mundo-un-byte-a-la-vez&#34;&gt;Arreglando el mundo, un byte a la vez&lt;/h3&gt;&#xA;&lt;p&gt;El comienzo de una gran carrera.&lt;/p&gt;</description>
+      <title>Técnico Informático H24/2</title>
+      <link>http://localhost:1313/es/experience/aena/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/es/experience/aena/</guid>
+      <description>&lt;h3 id=&#34;turnos-de-12-horas&#34;&gt;Turnos de 12 horas&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Funciones realizadas:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Uso del sistema de tickets BMC Helix.&lt;/li&gt;&#xA;&lt;li&gt;Mantenimiento de aplicaciones corporativas.&lt;/li&gt;&#xA;&lt;li&gt;Administración de sistemas y redes.&lt;/li&gt;&#xA;&lt;li&gt;Actualización y Mantenimiento de servidores Windows y Linux.&lt;/li&gt;&#xA;&lt;li&gt;Trabajos con bases de datos SQL y servidores de correos Exchange.&lt;/li&gt;&#xA;&lt;li&gt;Uso de entornos de virtualización como Hyper-V y VMWare.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Valor incorporado:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introducción de contenedores Docker al ámbito de trabajo.&lt;/li&gt;&#xA;&lt;li&gt;Documentación de información sobre los sistemas.&lt;/li&gt;&#xA;&lt;li&gt;Optimización de los flujos de trabajo.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,173 @@
+/* You can customize theme styles here */
+
+/* general */
+b, strong {
+    font-weight: bold !important;
+}
+
+/* html body ::selection{
+    background-color:#A2D57F;
+    color:#fff;
+} */
+
+p a:hover, span a:hover {
+    color: #A2D57F !important;
+}
+
+/** .section li {
+    color: rgba(0, 0, 0, 1) !important
+} **/
+
+
+/* header */
+.header .navbar-brand span:first-child{
+    color: #A2D57F !important;
+    margin-right: 0.2em !important;
+}
+
+.header .container{
+    padding-left: 10px;
+}
+
+@media (max-width: 768px) {
+    .profile-image {
+        margin-bottom: 2em;
+    }
+}
+
+@media only screen and (min-width: 968px) and (max-width: 992px) {
+    .rad-showcase {
+      padding-top: 20px !important; } }
+  
+  @media only screen and (min-width: 992px) {
+    .rad-showcase {
+      padding-top: 30px !important; } }
+
+.footer__copy {
+    white-space: wrap !important;
+}
+
+/* experience background color */
+.experience.selected a,
+.experience:hover a,
+.experience:active a,
+.experience a:hover,
+.experience a:active {
+    background-color: #B2D29D !important;
+}
+
+div.experience__company {
+    color: #91C46F !important;
+}
+
+/* fix h3 links color */
+section#experience div#main-content h3 a {
+    color: #A2D57F !important;
+}
+
+.platform-links {
+    margin-top: 15px !important;
+}
+
+.profile-image img{
+    border-radius: 3% !important;
+    margin-top: 20px !important;
+}
+
+br {
+    font-size: 10% !important;
+}
+
+@media (min-width: 1200px) {
+    .rad-showcase {
+        min-height: 720px !important;
+    }
+    /*.rad-showcase + section {
+        margin-top: -10px !important;
+      }*/
+}
+
+@media (min-width: 992px) {
+    .rad-showcase {
+        min-height: 720px !important;
+    }
+    .rad-showcase + section {
+        margin-top: -10px !important;
+      }
+  }
+
+@media (min-width: 1200px) {
+    .section div[class*="col-"] img.image-left-overflow {
+        margin-left: 0px !important; 
+    
+        border-radius: 3% !important;
+    }
+}
+
+.rad-showcase {
+    padding-bottom: 40px;
+}
+
+.rad-showcase::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    max-width: 1170px;
+    background-color: #dbe0e4;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.lead {
+    text-align: justify !important;
+    line-height: 1.4 !important;
+}
+
+.profile-image {
+    text-align: center !important;
+}
+
+.rad-animation-group {
+    padding-bottom: 0px !important;
+}
+
+/* .section-experience {
+    padding-top: 30px !important;
+    padding-bottom: 40px !important;
+} */
+
+@media only screen and (max-width: 1000px) {
+    .experience__company-logo {
+        display: none;
+    }
+}
+@media only screen and (max-width: 575px) {
+
+    .experience__title {
+        display: none;
+    }
+}
+
+.contact-container {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.home, .section--contact {
+    background-color: #f8f9fa;
+}
+
+.section {
+    padding-bottom: 80px !important;
+}
+
+body.home div.experience {
+    padding-top: 1.5rem !important;
+}
+
+/* .mt-5 {
+    margin-top: 0rm !important;
+} */

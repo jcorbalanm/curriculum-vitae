@@ -1,12 +1,12 @@
 ## Meta tags
 - id: "meta_title"
-  translation: "Adritian - un tema Hugo de alto rendimiento por Adrián Moreno"
+  translation: "Julio Corbalán Moreno"
 - id: "meta_description"
-  translation: "Este tema de Hugo (Adritian) está basado en Bootstrap y tiene características que lo hacen adecuado para un sitio personal, un portafolio u otros tipos de aplicaciones de una sola página."
+  translation: "Este página web es el sitio personal de Julio Corbalán Moreno."
 - id: "meta_keywords"
-  translation: "hugo, tema, bootstrap, adritian, adrian moreno, sitio personal, portfolio, aplicación de una sola página"
+  translation: "hugo, blog, sitio personal, julio corbalan moreno, portfolio"
 - id: "meta_author"
-  translation: "Adrián Moreno Peña"
+  translation: "Julio Corbalán Moreno"
 - id: "meta_image"
   translation: "/img/general/og-image.jpg"
 
@@ -14,9 +14,9 @@
 - id: "logo_alt"
   translation: "Adritian logo"
 - id: "logo_text1"
-  translation: "Genial"
+  translation: "Julio"
 - id: "logo_text2"
-  translation: "Nombre"
+  translation: "Corbalán"
 
 
 ## General
@@ -27,7 +27,7 @@
 
 ## Footer
 - id: "footer_notice"
-  translation: "© Adritian. Tema gratuito de Hugo por Adrián Moreno Peña."
+  translation: "© Julio Corbalán Moreno. Tema Adritian para Hugo modificado."
 - id: "language"
   translation: "Idioma"
 - id: "toggle_theme"
@@ -41,9 +41,9 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Sitio demo de Adritian - un tema Hugo de alto rendimiento por Adrián Moreno"
+  translation: "Julio Corbalán Moreno"
 - id: "head_description"
-  translation: "Este tema de Hugo (Adritian) está basado en Bootstrap y tiene características que lo hacen adecuado para un sitio personal, un portafolio u otros tipos de aplicaciones de una sola página."
+  translation: "Este página web es el sitio personal de Julio Corbalán Moreno."
 
 ## Blog
 - id: "read_more"
