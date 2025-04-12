@@ -1,6 +1,6 @@
 baseURL = "https://jcorbalan.com/"
 title = "Julio Corbalán"
-languageCode = "es"
+defaultContentLanguage: es
 
 #para github actions
 [caches]
