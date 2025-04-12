@@ -2,6 +2,11 @@ baseURL = "https://jcorbalan.com/"
 title = "Julio Corbalán"
 languageCode = "es"
 
+#para github actions
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [markup.goldmark.renderer]
 unsafe = true
 
