@@ -106,7 +106,7 @@ mobileHeader = false
 
 [languages]
 [languages.en]
-disabled = false
+disabled = true
 languageCode = 'en'
 languageDirection = 'ltr'
 languageName = 'English'
