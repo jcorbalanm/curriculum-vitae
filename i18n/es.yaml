@@ -33,11 +33,11 @@
 - id: "toggle_theme"
   translation: "Seleccionar esquema de color"
 - id: "theme_light"
-  translation: "☀️ Claro"
+  translation: "Claro"
 - id: "theme_dark"
-  translation: "🌑 Oscuro"
+  translation: "Oscuro"
 - id: "theme_auto"
-  translation: "✨ Auto"
+  translation: "Auto"
 
 ## Homepage head title
 - id: "head_title"
