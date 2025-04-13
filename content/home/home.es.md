@@ -10,7 +10,7 @@ draft = false
     button_text="Contacta conmigo"
     button_icon="icon-email"
     button_url="/#contact"
-    description="Actualmente trabajando en AENA, en el aeropuerto de Alicante, soy un Ingeniero Informático que está acabando sus estudios y busca un puesto como desarrollador o administrador de infraestructura junior. <br/> Cuento con 2 años de experiencia profesional en administración de servidores Windows y Linux, y entornos de virtualización como VMWarey  Hyper-V. Tengo especial interés por DevOps y los microservicios."
+    description="Actualmente trabajando en AENA, en el aeropuerto de Alicante, soy un Ingeniero Informático que está acabando sus estudios y busca un puesto como desarrollador o administrador de infraestructura junior. <br/> Cuento con 2 años de experiencia profesional en administración de servidores Windows y Linux, y entornos de virtualización como VMWare e Hyper-V. Tengo especial interés por DevOps y los microservicios."
     imgSrc="images/showcase/Image.jpeg"
     imgScale="0.20"
  >}}
