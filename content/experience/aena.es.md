@@ -17,9 +17,9 @@ companyLogo: "images/experience/aena.png"
 - Administración de sistemas y redes.
 - Actualización y Mantenimiento de servidores Windows y Linux.
 - Trabajos con bases de datos SQL y servidores de correos Exchange.
-- Uso de entornos de virtualización como Hyper-V y VMWare.
+- Uso de entornos de virtualización como Hyper-V y VMware.
 
 <br>**Valor incorporado:**
 - Introducción de contenedores Docker al ámbito de trabajo.
-- Documentación de información sobre los sistemas.
-- Optimización de los flujos de trabajo.
+- Documentación del estado e información sobre los sistemas.
+- Optimización de algunos de los flujos de trabajo.

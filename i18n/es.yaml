@@ -1,18 +1,18 @@
 ## Meta tags
 - id: "meta_title"
-  translation: "Julio Corbalán Moreno"
+  translation: "Julio Corbalán"
 - id: "meta_description"
-  translation: "Este página web es el sitio personal de Julio Corbalán Moreno."
+  translation: "Este página web es el sitio personal de Julio Corbalán."
 - id: "meta_keywords"
-  translation: "hugo, blog, sitio personal, julio corbalan moreno, portfolio"
+  translation: "hugo, blog, sitio personal, julio corbalan, portfolio"
 - id: "meta_author"
-  translation: "Julio Corbalán Moreno"
-- id: "meta_image"
-  translation: "/img/general/og-image.jpg"
+  translation: "Julio Corbalán"
+#- id: "meta_image"
+#  translation: "/img/general/og-image.jpg"
 
 ## Header
 - id: "logo_alt"
-  translation: "Adritian logo"
+  translation: "Logo de Julio Corbalán"
 - id: "logo_text1"
   translation: "Julio"
 - id: "logo_text2"
@@ -27,7 +27,7 @@
 
 ## Footer
 - id: "footer_notice"
-  translation: "© Julio Corbalán Moreno. Tema Adritian para Hugo modificado."
+  translation: "© Julio Corbalán. Tema Adritian para Hugo modificado."
 - id: "language"
   translation: "Idioma"
 - id: "toggle_theme"
@@ -41,9 +41,9 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Julio Corbalán Moreno"
+  translation: "Julio Corbalán"
 - id: "head_description"
-  translation: "Este página web es el sitio personal de Julio Corbalán Moreno."
+  translation: "Este página web es el sitio personal de Julio Corbalán."
 
 ## Blog
 - id: "read_more"

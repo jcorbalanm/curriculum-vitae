@@ -55,18 +55,15 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Adritian - a high performance hugo theme by Adrián Moreno'
-description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
-images = ['/img/og-img.png']
+title = 'Julio Corbalán'
+# TODO META IMAGE
+# images = ['/img/og-img.png']
 sections = [
   "showcase",
-  "about",
   "education",
   "experience",
   "client-and-work",
-  "testimonial",
   "contact",
-  "newsletter",
 ]
 # If you want to display an image logo in the header, you can add it here
 # logo = '/img/hugo.svg'
@@ -106,7 +103,7 @@ mobileHeader = false
 
 [languages]
 [languages.en]
-disabled = true
+disabled = false
 languageCode = 'en'
 languageDirection = 'ltr'
 languageName = 'English'
@@ -116,29 +113,32 @@ weight = 0
 [languages.en.menus]
 [[languages.en.menus.header]]
 name = "Home"
-URL = "/"
+URL = "/en/#showcase"
 weight = 1
-[[languages.en.menus.header]]
-name = 'About'
-URL = '#about'
-weight = 2
+
+# [[languages.en.menus.header]]
+# name = 'About'
+# URL = '#about'
+# weight = 2
+
 #  [[languages.en.menus.header]]
 #  name = 'Portfolio'
 #  URL = '#portfolio'
 #  weight = 3
+
 [[languages.en.menus.header]]
 name = "Experience"
-URL = "#experience"
+URL = "/en/#experience-list-shortcode"
 weight = 4
 
 [[languages.en.menus.header]]
-name = "How to"
-URL = "/blog"
+name = "Blog"
+URL = "/en/blog"
 weight = 5
 
 [[languages.en.menus.header]]
 name = "Contact"
-URL = "#contact"
+URL = "/en/#contact"
 weight = 6
 
 [[languages.en.menus.footer]]
@@ -170,8 +170,8 @@ languageName = 'Español'
 title = ''
 weight = 0
 [[languages.es.menus.header]]
-name = "INICIO"
-URL = "/es/"
+name = "Inicio"
+URL = "/es/#showcase"
 weight = 1
 
 #  [[languages.es.menus.header]]
@@ -186,7 +186,7 @@ weight = 1
 
 [[languages.es.menus.header]]
 name = "Experiencia"
-URL = "/es/#experience"
+URL = '/es/#experience-list-shortcode'
 weight = 4
 
 [[languages.es.menus.header]]
@@ -201,12 +201,12 @@ weight = 6
 
 [[languages.es.menus.footer]]
 name = "INICIO"
-URL = "/"
+URL = "/es/#showcase"
 weight = 1
 
 [[languages.es.menus.footer]]
 name = "Experiencia"
-URL = "/es/#experience"
+URL = "/es/#experience-list-shortcode"
 weight = 2
 
 [[languages.es.menus.footer]]

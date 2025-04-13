@@ -1,7 +1,7 @@
 +++
 title = 'Icons'
 date = 2025-02-28T08:05:05+01:00
-draft = false
+draft = true
 +++
 
 The theme has multiple icons available for use.

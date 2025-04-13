@@ -5,12 +5,12 @@ draft = false
 +++
 
 {{< showcase-section
-    title="Hola, soy Julio"
-    subtitle="Ingeniero Informático"
-    button_text="Contacta conmigo"
+    title="Hi, I'm Julio"
+    subtitle="Software Engineer"
+    button_text="Contact me"
     button_icon="icon-email"
     button_url="#contact"
-    description="Actualmente trabajando en AENA, en el aeropuerto de Alicante, soy un Ingeniero Informático que está acabando sus estudios y busca un puesto como desarrollador o administrador de infraestructura junior. <br/> Cuento con 2 años de experiencia profesional en administración de servidores Windows y Linux, y entornos de virtualización como VMWarey  Hyper-V. Tengo especial interés por DevOps y los microservicios."
+    description="Currently working in AENA, in Alicante's airport, I am a Software Engineer who's finishing his studiesand is searching for a job as a junior developer or system administrator. <br/> I possess 2 years of professional experiencie in administration of servers both Windows and Linux, and virtualization environments such as VMWare and Hyper-V. I have a special interest in DevOps and microservices."
     imgSrc="images/showcase/Image.jpeg"
     imgScale="0.20"
  >}}
@@ -68,7 +68,7 @@ draft = false
 -->
 
 {{< experience-list 
-    title="Experiencia laboral" >}}
+    title="Work experience" >}}
 
 <!--
     button3_text="All experience"
@@ -76,7 +76,7 @@ draft = false
 -->
 
 {{< client-and-work-section
-    title="Proyectos personales" >}} 
+    title="Personal proyects" >}} 
 
 <!--
 {{< testimonial-section
@@ -85,16 +85,16 @@ draft = false
 
 {{< contact-section
     title="Contacto" 
-    contact_form_name="Nombre"
-    contact_form_email="Correo"
-    contact_form_message="Mensaje"
-    contact_button="Enviar mensaje"
-    contact_phone_title="Mi teléfono"
-    contact_phone_number="<a href='tel:+34 644211533'>644211533</a>"
-    contact_email_title="Mi correo"
+    contact_form_name="Name"
+    contact_form_email="Email"
+    contact_form_message="Message"
+    contact_button="Send message"
+    contact_phone_title="My phone number"
+    contact_phone_number="<a href='tel:+34 644211533'>(+34) 644211533</a>"
+    contact_email_title="My email"
     contact_email_email="jcorbalan@mailbox.org"
-    contact_address_title="Mi ubicación"
-    contact_address_address="🇪🇸 Alicante, España"
+    contact_address_title="My location"
+    contact_address_address="🇪🇸 Alicante, Spain"
     form_action="/"
     form_method="POST"
      >}}
