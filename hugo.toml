@@ -118,12 +118,12 @@ weight = 1
 
 # [[languages.en.menus.header]]
 # name = 'About'
-# URL = '#about'
+# URL = '/en/#about'
 # weight = 2
 
 #  [[languages.en.menus.header]]
 #  name = 'Portfolio'
-#  URL = '#portfolio'
+#  URL = '/en/#portfolio'
 #  weight = 3
 
 [[languages.en.menus.header]]
@@ -143,23 +143,28 @@ weight = 6
 
 [[languages.en.menus.footer]]
 name = "Home"
-URL = "/"
+URL = "/en/#showcase"
 weight = 1
+
+[[languages.en.menus.header]]
+name = "Experience"
+URL = "/en/#experience-list-shortcode"
+weight = 2
 
 [[languages.en.menus.footer]]
 name = "About"
-URL = "#about"
-weight = 2
+URL = "/en/#about"
+weight = 3
 
 #  [[languages.en.menus.footer]]
 #  name = "Portfolio"
 #  URL = "#portfolio"
-#  weight = 3
+#  weight = 4
 
 [[languages.en.menus.footer]]
 name = "Contact"
-URL = "#contact"
-weight = 4
+URL = "/en/#contact"
+weight = 5
 
 
 [languages.es]
@@ -171,62 +176,62 @@ title = ''
 weight = 0
 [[languages.es.menus.header]]
 name = "Inicio"
-URL = "/es/#showcase"
+URL = "/#showcase"
 weight = 1
 
 #  [[languages.es.menus.header]]
 #  name = 'Sobre mi'
-#  URL = '/es/#about'
+#  URL = '/#about'
 #  weight = 2
 
 #  [[languages.es.menus.header]]
 #  name = 'Portfolio'
-#  URL = '/es/#portfolio'
+#  URL = '/#portfolio'
 #  weight = 3
 
 [[languages.es.menus.header]]
 name = "Experiencia"
-URL = '/es/#experience-list-shortcode'
+URL = '/#experience-list-shortcode'
 weight = 4
 
 [[languages.es.menus.header]]
 name = "Blog"
-URL = "/es/blog"
+URL = "/blog"
 weight = 5
 
 [[languages.es.menus.header]]
 name = "Contacto"
-URL = "/es/#contact"
+URL = "/#contact"
 weight = 6
 
 [[languages.es.menus.footer]]
 name = "INICIO"
-URL = "/es/#showcase"
+URL = "/#showcase"
 weight = 1
 
 [[languages.es.menus.footer]]
 name = "Experiencia"
-URL = "/es/#experience-list-shortcode"
+URL = "/#experience-list-shortcode"
 weight = 2
 
 [[languages.es.menus.footer]]
 name = "Blog"
-URL = "/es/blog"
+URL = "/blog"
 weight = 3
 
 #  [[languages.es.menus.footer]]
 #  name = "Sobre mi"
-#  URL = "/es/#about"
+#  URL = "/#about"
 #  weight = 4
 
 #  [[languages.es.menus.footer]]
 #  name = "Portfolio"
-#  URL = "/es/#portfolio"
+#  URL = "/#portfolio"
 #  weight = 5
 
 [[languages.es.menus.footer]]
 name = "Contacto"
-URL = "/es/#contact"
+URL = "/#contact"
 weight = 6
 
 [languages.fr]

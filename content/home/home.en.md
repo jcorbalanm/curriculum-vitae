@@ -1,5 +1,5 @@
 +++
-title =  "Inicio"
+title =  "Home"
 type = "home"
 draft = false
 +++
@@ -9,7 +9,7 @@ draft = false
     subtitle="Software Engineer"
     button_text="Contact me"
     button_icon="icon-email"
-    button_url="#contact"
+    button_url="en/#contact"
     description="Currently working in AENA, in Alicante's airport, I am a Software Engineer who's finishing his studiesand is searching for a job as a junior developer or system administrator. <br/> I possess 2 years of professional experiencie in administration of servers both Windows and Linux, and virtualization environments such as VMWare and Hyper-V. I have a special interest in DevOps and microservices."
     imgSrc="images/showcase/Image.jpeg"
     imgScale="0.20"
@@ -52,7 +52,7 @@ draft = false
  -->
 
 {{< education-list
-    title="Formación académica" >}}
+    title="Academic Education" >}}
 
 <!--
 {{< experience-section
@@ -84,7 +84,7 @@ draft = false
 -->
 
 {{< contact-section
-    title="Contacto" 
+    title="Contact" 
     contact_form_name="Name"
     contact_form_email="Email"
     contact_form_message="Message"
