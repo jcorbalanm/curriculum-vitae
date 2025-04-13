@@ -171,3 +171,7 @@ body.home div.experience {
 /* .mt-5 {
     margin-top: 0rm !important;
 } */
+
+.experience__header {
+    padding-top: 15px !important;
+}
