@@ -95,7 +95,7 @@ draft = false
     contact_email_email="jcorbalan@mailbox.org"
     contact_address_title="Mi ubicación"
     contact_address_address="🇪🇸 Alicante, España"
-    form_action="https://api.formbee.dev/formbee/f424e3ec-da0a-4266-9440-81dcdf168c72"
+    form_action="https://formspree.io/f/mgvadbkb"
     form_method="POST"
      >}}
 
