@@ -15,9 +15,9 @@
 - id: "logo_alt"
   translation: "Julio Corbalán's logo"
 - id: "logo_text1"
-  translation: "Adritian"
+  translation: "Julio"
 - id: "logo_text2"
-  translation: "Demo"
+  translation: "Corbalán"
 
 ## General
 - id: "skipToMainContent"
