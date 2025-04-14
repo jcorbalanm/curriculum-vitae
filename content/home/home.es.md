@@ -90,7 +90,7 @@ draft = false
     contact_form_message="Mensaje"
     contact_button="Enviar mensaje"
     contact_phone_title="Mi teléfono"
-    contact_phone_number="<a href='tel:+34 644211533'>644211533</a>"
+    contact_phone_number="<a href='tel:+34 644211533'>(+34) 644211533</a>"
     contact_email_title="Mi correo"
     contact_email_email="jcorbalan@mailbox.org"
     contact_address_title="Mi ubicación"
