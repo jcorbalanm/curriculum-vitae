@@ -17,4 +17,4 @@ params:
 ## The content is used for the description of the project
 ---
 
-Dispongo de un cluster de Proxmox en casa formado por dos nodos, en los que hosteo varios servicios para uso personal y hago pruebas para aprender. Ahora mismo estoy aprendiendo sobre Traefik y Kubernetes, con Ansible y Terraform como planes futuros.
+Dispongo de un cluster de Proxmox en casa formado por dos nodos, en los que hosteo varios servicios para uso personal desplegados con docker, y hago pruebas para aprender. Ahora mismo estoy aprendiendo sobre Traefik y Kubernetes, con Ansible y Terraform como planes futuros.

@@ -10,7 +10,7 @@ draft = false
     button_text="Contact me"
     button_icon="icon-email"
     button_url="/en/#contact"
-    description="Currently working in AENA, in Alicante's airport, I am a Software Engineer who's finishing his studiesand is searching for a job as a junior developer or system administrator. <br/> I possess 2 years of professional experiencie in administration of servers both Windows and Linux, and virtualization environments such as VMWare and Hyper-V. I have a special interest in DevOps and microservices."
+    description="Currently working in AENA, in Alicante's airport, I am a Software Engineer who's finishing his studiesand is searching for a job as a junior developer or system administrator. <br/> I possess 2 years of professional experiencie in administration of servers both Windows and Linux, and virtualization environments such as VMWare and Hyper-V, and more than 6 years of Linux usage. I have a special interest in DevOps and microservices."
     imgSrc="images/showcase/Image.jpeg"
     imgScale="0.20"
  >}}
