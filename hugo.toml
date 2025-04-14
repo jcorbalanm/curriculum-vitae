@@ -106,7 +106,7 @@ mobileHeader = false
 disabled = false
 languageCode = 'en'
 languageDirection = 'ltr'
-languageName = '🇬🇧 English'
+languageName = 'English'
 title = ''
 weight = 0
 
@@ -171,7 +171,7 @@ weight = 5
 disabled = false
 languageCode = 'es'
 languageDirection = 'ltr'
-languageName = '🇪🇸 Español'
+languageName = 'Español'
 title = ''
 weight = 0
 [[languages.es.menus.header]]

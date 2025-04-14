@@ -29,7 +29,7 @@
 - id: "footer_notice"
   translation: "© Julio Corbalán. Tema Adritian para Hugo modificado."
 - id: "language"
-  translation: "Idioma"
+  translation: "🌐 Idioma"
 - id: "toggle_theme"
   translation: "Seleccionar esquema de color"
 - id: "theme_light"
