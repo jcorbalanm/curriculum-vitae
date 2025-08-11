@@ -9,7 +9,7 @@ params:
     button:
         icon: "icon-arrow-right"
         btnText: "Blog Post (Work in progress)"
-        URL: "/es/blog/homelab"
+        URL: "/blog/homelab"
     image:
         src: "images/works/homelab.png"
         scale: 0.5

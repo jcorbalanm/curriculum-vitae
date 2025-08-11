@@ -1,0 +1,13 @@
+---
+title: 'My personal homelab'
+date: 2025-02-11T14:38:33+02:00
+draft: false
+type: 'blog'
+tags: 
+  - Linux
+  - Proxmox
+  - Docker
+  - Kubernetes
+---
+
+To be written...
