@@ -3,7 +3,7 @@ name: Deploy Hugo site to Pages
 
 on:
   schedule:
-    - cron: "0 10 * * *" # Esto se ejecutará todos los días a medianoche
+    - cron: "0 10 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
