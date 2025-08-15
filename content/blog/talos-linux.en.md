@@ -8,7 +8,7 @@ tags:
   - Kubernetes
 
 images:
-  featured_image: '/img/blog/feature-sample-3.png'
+  featured_image: '/img/blog/talos-linux-banner.png'
 ---
 
 ![Talos Linux logo](/img/blog/talos-linux-banner.png)
