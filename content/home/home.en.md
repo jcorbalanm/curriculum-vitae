@@ -6,12 +6,13 @@ draft = false
 
 {{< showcase-section
     title="Hi, I'm Julio"
-    subtitle="Software Engineer"
+    subtitle="Junior Software Developer"
     button_text="Contact me"
     button_icon="icon-email"
     button_url="/en/#contact"
-    description="Currently working in AENA, in Alicante's airport, I am a Software Engineer who's finishing his studiesand is searching for a job as a junior developer or system administrator. <br/> I possess 2 years of professional experiencie in administration of servers both Windows and Linux, and virtualization environments such as VMWare and Hyper-V, and more than 6 years of Linux usage. I have a special interest in DevOps and microservices."
-    imgSrc="images/showcase/Image.jpeg"
+    description="Computer Engineer who has just completed his studies. Currently working as a Level 1 IT Support Technician at Alicante Airport. Experience with different programming languages and development tools and frameworks, plus professional experience in administering Windows and Linux servers, as well as virtualization environments such as VMware and Hyper-V. I also have personal experience with virtualization environments like Proxmox, containerization with Docker and small-scale Kubernetes, and more than 6 years of Linux usage. Always eager to learn new technologies."
+
+    imgSrc="images/showcase/IMG_1591.jpg"
     imgScale="0.20"
  >}}
 
