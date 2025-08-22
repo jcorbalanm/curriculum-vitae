@@ -10,7 +10,7 @@ draft = false
     button_text="Contacta conmigo"
     button_icon="icon-email"
     button_url="/#contact"
-    description="Ingeniero Informático que acaba de terminar sus estudios. Actualmente trabajando como Técnico de Soporte N1 en el Aeropuerto de Alicante. Experiencia con diferentes lenguages de programación y herramientas de desarrollo, junto con experiencia profesional administrando servidores Windows y Linux, y entornos de virtualización como VMWare e Hyper-V. También poseo con experiencia personal con entornos de virtualización como Proxmox, contenedores en Docker y Kubernetes a pequeña escala, y más de 6 años de uso de Linux. Siempre aprendiendo sobre nuevas tecnologías."
+    description="Ingeniero Informático que acaba de terminar sus estudios. Actualmente trabajando como Técnico de Soporte N1 en el Aeropuerto de Alicante. Experiencia con diferentes lenguajes de programación y herramientas de desarrollo, junto con experiencia profesional administrando servidores Windows y Linux, y entornos de virtualización como VMWare e Hyper-V. También poseo con experiencia personal con entornos de virtualización como Proxmox, contenedores en Docker y Kubernetes a pequeña escala, y más de 6 años de uso de Linux. Siempre aprendiendo sobre nuevas tecnologías."
 
     imgSrc="images/showcase/IMG_1591.jpg"
     imgScale="0.20"
