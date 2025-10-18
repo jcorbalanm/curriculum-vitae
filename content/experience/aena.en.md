@@ -1,25 +1,24 @@
 ---
 date: 2023-03-01T00:00:00+01:00
 draft: false
-title: "IT Technician H24/2"
-jobTitle: "IT Technician"
+title: "Level 1 IT Support"
+jobTitle: "Level 1 IT Support"
 company: "AENA"
 location: "Alicante, Spain"
-duration: "March 2023 - Present"
+duration: "March 2023 - September 2025"
 companyLogo: "images/experience/aena.png"
 
 ---
-### 12 hours turns
+### Responsibilities:
+ - Incident management using ticketing system (BMC Helix).
+ - Maintenance of corporate applications.
+ - Updating and maintaining Windows and Linux servers.
+ - Working with SQL databases and Exchange mail servers.
+ - Use of virtualization environments such as Hyper-V and VMware.
 
-**Functions performed:**
-- Usage of the BMC Helix ticketing system.
-- Maintenance task of the corporative applications.
-- Administration of systems and networks.
-- Update and maintenance of Windows and Linux servers.
-- Works with SQL databases and Exchange mailservers.
-- Usage of virtualization environments like Hyper-V and VMware.
+<br>
 
-<br>**Incorporated value:**
-- Introduction of Docker containers into the work ámbit.
-- Documenting of the state and information about the sytems.
-- Optimization of some of the workflows.
+### Added Value:
+ - Introduction of Docker containers into the work environment.
+ - Technical documentation of processes and systems.
+ - Optimization of internal workflows.

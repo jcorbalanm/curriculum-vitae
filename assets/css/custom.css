@@ -6,12 +6,12 @@ b, strong {
 }
 
 /* html body ::selection{
-    background-color:#A2D57F;
+    background-color:#647893;
     color:#fff;
 } */
 
 p a:hover, span a:hover {
-    color: #A2D57F !important;
+    color: #647893 !important;
 }
 
 /** .section li {
@@ -21,7 +21,7 @@ p a:hover, span a:hover {
 
 /* header */
 .header .navbar-brand span:first-child{
-    color: #A2D57F !important;
+    color: #647893 !important;
     margin-right: 0.2em !important;
 }
 
@@ -53,16 +53,16 @@ p a:hover, span a:hover {
 .experience:active a,
 .experience a:hover,
 .experience a:active {
-    background-color: #B2D29D !important;
+    background-color: #8496ac !important;
 }
 
 div.experience__company {
-    color: #91C46F !important;
+    color: #647893 !important;
 }
 
 /* fix h3 links color */
 section#experience div#main-content h3 a {
-    color: #A2D57F !important;
+    color: #647893 !important;
 }
 
 .platform-links {
