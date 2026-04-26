@@ -6,11 +6,11 @@ draft = false
 
 {{< showcase-section
     title="Hola, soy Julio"
-    subtitle="Junior Software Developer"
+    subtitle="Software Engineer"
     button_text="Contacta conmigo"
     button_icon="icon-email"
     button_url="/#contact"
-    description="Ingeniero Informático que acaba de terminar sus estudios. Actualmente trabajando como Técnico de Soporte N1 en el Aeropuerto de Alicante. Experiencia con diferentes lenguajes de programación y herramientas de desarrollo, junto con experiencia profesional administrando servidores Windows y Linux, y entornos de virtualización como VMWare e Hyper-V. También poseo con experiencia práctica con entornos de virtualización como Proxmox, contenedores en Docker y Kubernetes a pequeña escala, y más de 6 años de uso de Linux. Siempre aprendiendo sobre nuevas tecnologías."
+    description="Ingeniero Informático con experiencia en desarrollo backend con Java y Spring Boot, y una base sólida en administración de sistemas adquirida en entornos de producción reales. Me interesa especialmente el espacio donde el desarrollo y la infraestructura se encuentran: automatización, CI/CD y despliegue de aplicaciones. Mantengo un homelab donde experimento con Kubernetes, Proxmox y NixOS."
 
     imgSrc="images/showcase/IMG_1591.jpg"
     imgScale="0.20"

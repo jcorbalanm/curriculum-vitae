@@ -6,11 +6,11 @@ draft = false
 
 {{< showcase-section
     title="Hi, I'm Julio"
-    subtitle="Junior Software Developer"
+    subtitle="Software Engineer"
     button_text="Contact me"
     button_icon="icon-email"
     button_url="/en/#contact"
-    description="Computer Engineer who has just completed his studies. Currently working as a Level 1 IT Support Technician at Alicante Airport. Experience with different programming languages and development tools and frameworks, plus professional experience in administering Windows and Linux servers, as well as virtualization environments such as VMware and Hyper-V. I also have practical experience with virtualization environments like Proxmox, containerization with Docker and small-scale Kubernetes, and more than 6 years of Linux usage. Always eager to learn new technologies."
+    description="Computer Engineer with experience in backend development using Java and Spring Boot, and a solid foundation in systems administration gained in real production environments. I am particularly interested in the space where development and infrastructure meet: automation, CI/CD, and application deployment. I maintain a homelab where I experiment with Kubernetes, Proxmox, and NixOS."
 
     imgSrc="images/showcase/IMG_1591.jpg"
     imgScale="0.20"
