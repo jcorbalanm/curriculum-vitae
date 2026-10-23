@@ -4,7 +4,7 @@ title: 'University of Alicante'
 draft: false # set to "true" if you want to hide the content 
 
 university: "University of Alicante"
-year: "September 2020 - June 2025"
+year: "September 2020 - January 2026"
 degree: "Degree in Software Engineering"
 
 ---

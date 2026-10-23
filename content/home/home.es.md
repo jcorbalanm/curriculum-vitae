@@ -23,7 +23,7 @@ draft = false
 -->
     {{< link icon="linkedin" url="https://www.linkedin.com/in/jcorbalanm/" >}}
     {{< link icon="square-github" url="https://github.com/jcorbalanm" >}}
-    {{< link icon="file-pdf" url="/Julio Corbalán Moreno - CV_ES.pdf" >}}
+    {{< link icon="file-pdf" url="/Julio_Corbalán_Moreno_CV_ES.pdf" >}}
 <!--
     {{< link icon="x-twitter" url="https://twitter.com/zetxek" >}}
     {{< link icon="dribbble" url="#" >}}
