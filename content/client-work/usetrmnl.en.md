@@ -1,6 +1,6 @@
 ---
 date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defaults to "today"
-title: 'Truenas'
+title: 'TRMNL'
 draft: false # set to "true" if you want to hide the content 
 
 link: "https://usetrmnl.com/" # optional URL
